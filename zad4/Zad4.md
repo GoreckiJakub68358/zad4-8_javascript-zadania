@@ -1,11 +1,3 @@
-To jest **bardzo dobry kierunek**, bo Twój README jest konkretny i techniczny. Jednak zauważyłem, że w nagłówkach i opisach wymieszałeś **Zadanie 3** (same motywy) z **Zadaniem 4** (JavaScript).
-
-Skoro teraz oddajesz **Zadanie 4**, musisz w README wyraźnie zaznaczyć obecność **JavaScriptu**, bo to jest główny cel tego etapu.
-
-Oto poprawiona wersja Twojego tekstu, zaktualizowana o wymagania **Zadania 4**:
-
----
-
 # CV – Jakub Górecki (Zadanie 4)
 
 > **Zadanie 4:** Interakcja (JavaScript)  
