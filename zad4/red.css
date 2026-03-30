@@ -1,0 +1,147 @@
+/* 1. Zmiana kroju pisma na inny niż domyślny (wymaganie techniczne) */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #faebeb; /* Delikatne tło pasujące do czerwieni */
+    
+    /* 2. Ustawienie marginesów i odstępów dla body (wymaganie techniczne) */
+    margin: 0;
+    padding: 40px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* 3. Ustawienie koloru przewodniego w odcieniu zieleni (wymaganie techniczne) */
+/* Wybrałem kolor Crimson Red (#c0392b) */
+header h1, h2, h3 {
+    color: #c0392b;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#theme-toggle {
+    padding: 8px 10px;
+    background-color: #fff;
+    border: 1px solid #c0392b;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    cursor: pointer;
+    transition: box-shadow 0.3s ease;
+}
+
+#theme-toggle:hover {
+    box-shadow: 0 0 20px rgb(192, 57, 43);
+}
+
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 4px solid #c0392b; /* Czerwone obramowanie zdjęcia */
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+/* Stylowanie kontenerów sekcji */
+.container {
+    background-color: #ffffff;
+    width: 100%;
+    max-width: 800px;
+    margin-bottom: 20px; /* Odstępy między sekcjami */
+    padding: 25px;       /* Wewnętrzne odstępy (padding) */
+    border-left: 5px solid #c0392b; /* Czerwony akcent z boku */
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+h2 {
+    margin-top: 0;
+    text-transform: uppercase;
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 10px;
+}
+
+/* Stylowanie linków */
+a {
+    color: #c0392b;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #c0392b;
+}
+
+.contact-links a {
+    margin-right: 15px;
+    background-color: #c0392b;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 20px;
+    font-size: 0.9em;
+    transition: all 0.3s ease;
+}
+
+.contact-links a:hover {
+    background-color: #992f23;
+    text-decoration: none;
+}
+
+/* Listy i elementy sekcji */
+ul {
+    padding-left: 10px;
+}
+
+li {
+    list-style: none;
+}
+
+li:hover {
+    background-color: #fee1de;
+}
+
+.section-element {
+    margin-bottom: 15px;
+    background-color: #fff;
+    border: 2px solid #c0392b;
+    border-radius: 10px;
+    padding: 10px 15px;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.section-element:hover {
+    transform: scale(1.03); /* Płynne powiększenie */
+    background-color: #fee1de;
+}
+
+/* Przycisk ukrywania sekcji */
+#toggle-projekty {
+    font-size: 0.7em;
+    padding: 3px 10px;
+    margin-left: 10px;
+    background-color: #c0392b;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    vertical-align: middle;
+    transition: background-color 0.3s ease;
+}
+
+#toggle-projekty:hover {
+    background-color: #992f23;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 0.8em;
+    color: #c0392b;
+    text-align: center;
+}
