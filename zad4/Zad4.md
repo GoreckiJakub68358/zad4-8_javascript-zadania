@@ -8,7 +8,7 @@
 ## 🔗 Linki
 
 - 📁 Repozytorium projektowe: [https://github.com/GoreckiJakub68358/zad4-8_javascript_projekt](https://github.com/GoreckiJakub68358/zad4-8_javascript_projekt)
-- 🌐 GitHub Pages: [LINK_DO_GITHUB_PAGES]
+- 🌐 GitHub Pages: [https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad4/index.html](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad4/index.html)
 
 ## 📋 Opis zadania
 
