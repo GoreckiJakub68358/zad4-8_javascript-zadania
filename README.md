@@ -9,6 +9,16 @@ Repozytorium zawiera **snapshoty kolejnych zadań** wykonywanych w trakcie semes
 
 Każdy folder (`zad4`, `zad5`, `zad6`, `zad7`, `zad8`) reprezentuje stan projektu w momencie oddania i działa niezależnie.
 
+## 🔗 Linki:
+
+- 🌐 **GitHub Pages:**
+👉 [https://goreckijakub68358.github.io/zad4-8_javascript-zadania/](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/)
+
+## 🔗 Linki do zadań:
+
+- Zadanie 4:
+👉 [https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad4/index.html](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad4/index.html)
+
 ## 📂 Struktura repozytorium
 
 ```text
@@ -28,10 +38,6 @@ Każdy folder zawiera:
 - pliki CSS
 - pliki JavaScript (jeśli wymagane)
 - wszystkie zasoby (np. zdjęcia)
-
-## 🌐 GitHub Pages
-
-👉 [https://goreckijakub68358.github.io/zad4-8_javascript-zadania/](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/)
 
 Przykładowe adresy:
 - Zadanie 3:  
