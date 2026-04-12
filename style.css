@@ -47,6 +47,11 @@ h1 {
     transition: background-color 0.3s ease-in-out;    
 }
 
+.link a {
+    display: block;
+    width: 100%;
+}
+
 .link:hover {
     background-color: #2d90f4;
 
