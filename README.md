@@ -21,6 +21,10 @@ Każdy folder (`zad4`, `zad5`, `zad6`, `zad7`, `zad8`) reprezentuje stan projekt
 
 ## ✅ Zrealizowane zadania
 
+### 🔹 Zadanie 1-2 - Struktura HTML5 i stylowanie CSS3 (RWD)
+- Tworzenie struktury strony w HTML5
+- Stylowanie strony w CSS3
+
 ### 🔹 Zadanie 3 – Motywy CSS
 - Dwa motywy: czerwony i zielony
 - Różnice w stylach i typografii
