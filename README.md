@@ -19,6 +19,9 @@ Każdy folder (`zad4`, `zad5`, `zad6`, `zad7`, `zad8`) reprezentuje stan projekt
 - Zadanie 4:
 👉 [https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad4/index.html](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad4/index.html)
 
+- Zadanie 5:
+👉 [https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad5/index.html](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad5/index.html)
+
 ## ✅ Zrealizowane zadania
 
 ### 🔹 Zadanie 1-2 - Struktura HTML5 i stylowanie CSS3 (RWD)
@@ -33,6 +36,14 @@ Każdy folder (`zad4`, `zad5`, `zad6`, `zad7`, `zad8`) reprezentuje stan projekt
 - Zmiana motywu przyciskiem
 - Ukrywanie sekcji „Projekty”
 - Brak błędów w konsoli
+
+### 🔹 Zadanie 5 – Walidacja formularza
+- Formularz zawierający co najmniej pola: imię, nazwisko, e-mail, wiadomość
+- Walidacja pól wymaganych
+- Walidacja poprawności adresu e-mail
+- Walidacja pola "Imię" i "Nazwisko" (nie mogą zawierać cyfr)
+- Czytelne komunikaty błędów dla użytkownika
+- Brak użycia backendu
 
 *(kolejne zadania będą dodawane)*
 
