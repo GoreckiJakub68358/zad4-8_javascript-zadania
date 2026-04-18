@@ -143,57 +143,7 @@ li {
     background-color: #1e5d3a;
 }
 
-/* Formularz kontaktowy */
-.form-group {
-    margin-bottom: 15px;
-    text-align: left;
-}
-
-label {
-    display: block;
-    font-weight: bold;
-    margin-bottom: 5px;
-    color: #2e8b57;
-}
-
-input,
-textarea {
-    width: 100%;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    box-sizing: border-box;
-}
-
-input:focus,
-textarea:focus {
-    border-color: #2e8b57;
-    outline: none;
-}
-
-.error-message {
-    color: #2e8b57;
-    font-size: 0.85em;
-    display: block;
-    margin-top: 5px;
-    min-height: 1em;
-}
-
-#submit-btn {
-    background-color: #2e8b57;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-    font-weight: bold;
-    transition: background 0.3s;
-}
-
-#submit-btn:hover {
-    background-color: #1e5d3a;
-}
-
+/* Stopka */
 footer {
     margin-top: 20px;
     font-size: 0.8em;
