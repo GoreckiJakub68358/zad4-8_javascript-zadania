@@ -78,7 +78,7 @@ contactForm.addEventListener('submit', function(event) {
     if (!lastName.value.trim()) {
         showError(lastName, 'Nazwisko jest wymagane.');
     } else if (!nameRegex.test(lastName.value)) {
-        showError(lastName, 'Nazwisko nie może zawierać cyfr.');
+        showError(lastName, 'Nazwisko nie może zawierać cyfr ani znaków specjalnych.');
     }
 
     // 3. Walidacja E-mail (regex)
