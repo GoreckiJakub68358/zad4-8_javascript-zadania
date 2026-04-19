@@ -155,6 +155,8 @@ label {
     color: #c0392b;
 }
 
+textarea { resize: vertical; }
+
 input,
 textarea {
     width: 100%;
