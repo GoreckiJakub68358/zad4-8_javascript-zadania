@@ -1,7 +1,8 @@
 # 📁 Interaktywne CV – repozytorium zadaniowe
 
-> **Przedmiot:** Projektowanie multimedialnych stron internetowych  
-> **Uczelnia:** Akademia Finansów i Biznesu Vistula 
+> - **Przedmiot:** Projektowanie multimedialnych stron internetowych  
+> - **Uczelnia:** Akademia Finansów i Biznesu Vistula
+> - **Autor:** Jakub Górecki (Nr indeksu: 68358)
 
 ## 📌 Opis
 
@@ -22,6 +23,11 @@ Każdy folder (`zad4`, `zad5`, `zad6`, `zad7`, `zad8`) reprezentuje stan projekt
 - Zadanie 5:
 👉 [https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad5/index.html](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad5/index.html)
 
+- Zadanie 6:
+👉 [https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad6/index.html](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad6/index.html)
+
+*(kolejne zadania będą dodawane)*
+
 ## ✅ Zrealizowane zadania
 
 ### 🔹 Zadanie 1-2 - Struktura HTML5 i stylowanie CSS3 (RWD)
@@ -32,7 +38,7 @@ Każdy folder (`zad4`, `zad5`, `zad6`, `zad7`, `zad8`) reprezentuje stan projekt
 - Dwa motywy: czerwony i zielony
 - Różnice w stylach i typografii
 
-### 🔹 Zadanie 4 – JavaScript
+### 🔹 Zadanie 4 – Interakcje w JavaScript
 - Zmiana motywu przyciskiem
 - Ukrywanie sekcji „Projekty”
 - Brak błędów w konsoli
@@ -44,6 +50,13 @@ Każdy folder (`zad4`, `zad5`, `zad6`, `zad7`, `zad8`) reprezentuje stan projekt
 - Walidacja pola "Imię" i "Nazwisko" (nie mogą zawierać cyfr)
 - Czytelne komunikaty błędów dla użytkownika
 - Brak użycia backendu
+
+### 🔹 Zadanie 6 – Dane z JSON
+- dane strony umieszczone w osobnym pliku JSON
+- JavaScript odczytuje te dane i generuje na ich podstawie elementy HTML
+- co najmniej dwie listy są generowane dynamicznie (sekcja Umiejętności i projekty)
+- brak ręcznego wpisywania danych bezpośrednio w HTML
+- dane są pobierane za pomocą `fetch()`
 
 *(kolejne zadania będą dodawane)*
 
