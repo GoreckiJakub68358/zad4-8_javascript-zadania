@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Jakub Górecki</title>
+    <!-- NR_INDEKSU: 68358 -->
+    <link id="theme-stylesheet" rel="stylesheet" href="red.css">
+  </head>
+  <body>
+    <header>
+      <img src="moje-zdjecie.jpg" alt="Zdjęcie profilowe - Jakub Górecki" />
+      <h1>Jakub Górecki</h1>
+
+      <!-- Przycisk zmiany motywu -->
+      <button id="theme-toggle">🌿 Przełącz na motyw zielony</button>
+    </header>
+    <main>
+      <section id="kontakt" class="container">
+        <h2>Kontakt</h2>
+        <p class="section-element">
+          <strong>E-mail:</strong>
+          <a href="mailto:gorecki.jakub1@outlook.com">gorecki.jakub1@outlook.com</a>
+        </p>
+        <p class="section-element">
+          <strong>Telefon:</strong>
+          <a href="tel:+48123456789">+48 123 456 789</a>
+        </p>
+        <p class="section-element">
+          <strong>Miasto:</strong> Warszawa
+        </p>
+        <p class="contact-links">
+          <a href="https://github.com/GoreckiJakub68358" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <a href="https://www.linkedin.com/in/jakub-górecki-3491b53b3/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        </p>
+      </section>
+      <section id="o-mnie" class="container">
+        <h2>O mnie</h2>
+        <p class="section-element"> 
+          Jestem studentem III roku Informatyki. Interesuję się tworzeniem 
+          nowoczesnych i responsywnych aplikacji webowych. Aktualnie rozwijam 
+          swoje umiejętności w technologiach takich jak React i Node.js. 
+          Poszukuję pierwszej pracy lub stażu, w którym będę mógł zdobywać 
+          doświadczenie komercyjne oraz dalej rozwijać się jako programista. 
+        </p>
+      </section>
+      <!-- Sekcja Umiejętności -->
+      <section id="umiejetnosci" class="container">
+          <h2>Umiejętności</h2>
+          <ul id="umiejetnosci-lista">
+              <!-- Dane zostaną wstawione przez JS -->
+              <li>Ładowanie danych...</li>
+          </ul>
+      </section>
+      <section id="doswiadczenie" class="container">
+        <h2>Doświadczenie</h2>
+        <article class="section-element">
+          <h3>Praktykant IT - Firma Technologiczna X</h3>
+          <p><em>Czerwiec 2023 – Sierpień 2023</em></p>
+          <p>Wsparcie zespołu przy testowaniu aplikacji webowych oraz przygotowywanie dokumentacji technicznej.</p>
+        </article>
+        <article class="section-element">
+          <h3>Młodszy Specjalista ds. Danych - Startup Y</h3>
+          <p><em>Czerwiec 2024 – Sierpień 2024</em></p>
+          <p>Analiza danych w arkuszach kalkulacyjnych oraz automatyzacja prostych raportów przy użyciu skryptów.</p>
+        </article>
+      </section>
+      <section id="edukacja" class="container">
+        <h2>Edukacja</h2>
+        <div class="section-element">
+          <p><strong>Akademia Finansów i Biznesu Vistula</strong></p>
+          <p>Kierunek: Informatyka, Studia licencjackie (w trakcie)</p>
+        </div>
+      </section>
+      <!-- Sekcja Projekty -->
+      <section id="projekty" class="container">
+          <h2>
+              Projekty
+              <button id="toggle-projekty">Ukryj</button>
+          </h2>
+          <ul id="projekty-lista">
+              <!-- Dane zostaną wstawione przez JS -->
+              <li>Ładowanie danych...</li>
+          </ul>
+      </section>
+      <section id="notatki-sekcja" class="container">
+          <h2>Moje Notatki / Cele</h2>
+          <div class="form-group">
+              <input type="text" id="note-input" placeholder="Wpisz nową notatkę...">
+              <button id="add-note-btn" style="margin-top: 10px;">Dodaj notatkę</button>
+          </div>
+          <ul id="notes-list">
+              <!-- Tu pojawią się notatki z Local Storage -->
+          </ul>
+      </section>
+      <section id="kontakt-formularz" class="container">
+        <h2>Napisz do mnie</h2>
+        <form id="contact-form" novalidate method="POST" action="https://formspree.io/f/mgopkqer">
+            <div class="form-group">
+                <label for="first-name">Imię:</label>
+                <input type="text" id="first-name" name="first-name" placeholder="Wpisz imię...">
+                <span class="error-message" id="first-name-error"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="last-name">Nazwisko:</label>
+                <input type="text" id="last-name" name="last-name" placeholder="Wpisz nazwisko...">
+                <span class="error-message" id="last-name-error"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" placeholder="Podaj adres e-mail...">
+                <span class="error-message" id="email-error"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="message">Wiadomość:</label>
+                <textarea id="message" name="message" rows="4" placeholder="Twoja wiadomość..."></textarea>
+                <span class="error-message" id="message-error"></span>
+            </div>
+
+            <button type="submit" id="submit-btn">Wyślij wiadomość</button>
+            <p id="form-success" style="display: none; color: #2e8b57; font-weight: bold; margin-top: 10px;">
+                Formularz został poprawnie wypełniony! (Symulacja wysyłki)
+            </p>
+        </form>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2026 Jakub Górecki. Strona stworzona na potrzeby zadania zaliczeniowego.</p>
+    </footer>
+
+    <!-- Podłączenie skryptu na końcu body -->
+    <script src="script.js"></script>
+  </body>
+</html>
