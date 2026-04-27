@@ -1,0 +1,25 @@
+{
+  "nr_indeksu": "68358",
+  "umiejetnosci": [
+    "Podstawy HTML5 i CSS3",
+    "Znajomość języka JavaScript (ES6+)",
+    "Obsługa systemu kontroli wersji Git",
+    "Podstawy SQL i baz danych",
+    "Język angielski na poziomie B1",
+    "Podstawy React.js"
+  ],
+  "projekty": [
+    {
+      "tytul": "Portfolio HTML/CSS",
+      "opis": "Strona osobista wykonana w czystym HTML i CSS prezentująca nabyte umiejętności."
+    },
+    {
+      "tytul": "Aplikacja do zarządzania zadaniami",
+      "opis": "Prosta aplikacja internetowa z systemem autoryzacji oraz logowania/rejestracji."
+    },
+    {
+      "tytul": "Dynamiczne CV (Zadanie 6)",
+      "opis": "Projekt wykorzystujący Fetch API do dynamicznego ładowania danych z pliku JSON."
+    }
+  ]
+}
