@@ -27,7 +27,11 @@ Każdy folder (`zad4`, `zad5`, `zad6`, `zad7`, `zad8`) reprezentuje stan projekt
 - Zadanie 6:
 👉 [https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad6/index.html](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad6/index.html)
 
-*(kolejne zadania będą dodawane)*
+- Zadanie 7:
+👉 [https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad7/index.html](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad7/index.html)
+
+- Zadanie 8:
+👉 [https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad8/index.html](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad8/index.html)
 
 ## ✅ Zrealizowane zadania
 
@@ -59,7 +63,18 @@ Każdy folder (`zad4`, `zad5`, `zad6`, `zad7`, `zad8`) reprezentuje stan projekt
 - brak ręcznego wpisywania danych bezpośrednio w HTML
 - dane są pobierane za pomocą `fetch()`
 
-*(kolejne zadania będą dodawane)*
+### 🔹 Zadanie 7 – Local Storage
+- możliwość dodania elementu (np. zadania, projektu, notatki lub innego wpisu)
+- zapis danych do localStorage
+- odczyt danych po odświeżeniu strony
+- możliwość usunięcia elementu
+- widoczne działanie funkcji na stronie
+
+### 🔹 Zadanie 8 – Backend
+- wysłanie danych formularza metodą POST
+- zapis danych poza przeglądarką użytkownika
+- potwierdzenie poprawnego wysłania danych
+- krótkie pokazanie w wideo, gdzie dane trafiają
 
 ## 📂 Struktura repozytorium
 
