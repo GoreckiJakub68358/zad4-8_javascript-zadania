@@ -2,8 +2,7 @@
 
 > - **Zadanie 6:** Dane z JSON   
 >  - **Przedmiot:** Projektowanie multimedialnych stron internetowych  
-> - **Uczelnia:** Akademia Finansów i Biznesu Vistula  
-> - **Numer indeksu:** 68358
+> - **Uczelnia:** Akademia Finansów i Biznesu Vistula
 
 ## 🔗 Linki
 
