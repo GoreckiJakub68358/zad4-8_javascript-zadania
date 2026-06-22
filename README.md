@@ -2,7 +2,7 @@
 
 > - **Przedmiot:** Projektowanie multimedialnych stron internetowych  
 > - **Uczelnia:** Akademia Finansów i Biznesu Vistula
-> - **Autor:** Jakub Górecki (Nr indeksu: 68358)
+> - **Autor:** Jakub Górecki
 
 ## 📌 Opis
 
