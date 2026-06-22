@@ -42,13 +42,7 @@ Celem zadania jest implementacja zapisu danych w pamięci lokalnej przeglądarki
 - Zaimplementowano asynchroniczną wysyłkę formularza (metoda `POST`) przy użyciu `fetch` i `FormData`.
 
 ### v6.2 - Dodanie potwierdzenia wysylki danych z serwera
-- Wdrożenie potwierdzenia dostarczenia wysyłanych danych.Linki
-
-- 📁 **Repozytorium projektowe:** 
-[https://github.com/GoreckiJakub68358/zad4-8_javascript_projekt](https://github.com/GoreckiJakub68358/zad4-8_javascript_projekt)
-
-- 🌐 **GitHub Pages:** 
-[https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad7/index.html](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad7/index.html)
+- Wdrożenie potwierdzenia dostarczenia wysyłanych danych.
 
 ## 📋 Opis zadania
 
