@@ -2,15 +2,13 @@
 
 > - **Zadanie 7:** Local Storage   
 >  - **Przedmiot:** Projektowanie multimedialnych stron internetowych  
-> - **Uczelnia:** Akademia Finansów i Biznesu Vistula  
-> - **Numer indeksu:** 68358
+> - **Uczelnia:** Akademia Finansów i Biznesu Vistula
 
 ## # CV - Jakub Górecki (Zadanie 8)
 
 > - **Zadanie 8:** Backend
 >  - **Przedmiot:** Projektowanie multimedialnych stron internetowych  
-> - **Uczelnia:** Akademia Finansów i Biznesu Vistula  
-> - **Numer indeksu:** 68358
+> - **Uczelnia:** Akademia Finansów i Biznesu Vistula
 
 ## 🔗 Linki
 
@@ -24,8 +22,6 @@
 
 Celem zadania jest wprowadzenie do komunikacji frontendu z serwerem i zapisu danych poza
 przeglądarką.
-
-
 
 ## ✅ Wymagania techniczne (Zadanie 7)
 
