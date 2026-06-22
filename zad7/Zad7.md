@@ -4,12 +4,6 @@
 >  - **Przedmiot:** Projektowanie multimedialnych stron internetowych  
 > - **Uczelnia:** Akademia Finansów i Biznesu Vistula
 
-## # CV - Jakub Górecki (Zadanie 8)
-
-> - **Zadanie 8:** Backend
->  - **Przedmiot:** Projektowanie multimedialnych stron internetowych  
-> - **Uczelnia:** Akademia Finansów i Biznesu Vistula
-
 ## 🔗 Linki
 
 - 📁 **Repozytorium projektowe:** 
@@ -20,8 +14,7 @@
 
 ## 📋 Opis zadania
 
-Celem zadania jest wprowadzenie do komunikacji frontendu z serwerem i zapisu danych poza
-przeglądarką.
+Celem zadania jest implementacja zapisu danych w pamięci lokalnej przeglądarki za pomocą `localStorage`.
 
 ## ✅ Wymagania techniczne (Zadanie 7)
 
