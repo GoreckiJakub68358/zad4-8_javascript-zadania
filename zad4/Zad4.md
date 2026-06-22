@@ -2,8 +2,7 @@
 
 > **Zadanie 4:** Interakcja (JavaScript)  
 > **Przedmiot:** Projektowanie multimedialnych stron internetowych  
-> **Uczelnia:** Akademia Finansów i Biznesu Vistula  
-> **Numer indeksu:** 68358
+> **Uczelnia:** Akademia Finansów i Biznesu Vistula
 
 ## 🔗 Linki
 
@@ -20,7 +19,7 @@ Celem zadania było dodanie pierwszej warstwy interaktywnej do strony CV przy u�
 - [x] **Zmiana motywu (JS):** Przycisk umożliwia dynamiczną zmianę między motywem `red.css` a `green.css`.
 - [x] **Ukrywanie sekcji (JS):** Dodano funkcjonalność ukrywania i pokazywania sekcji "Projekty".
 - [x] **Brak błędów:** Konsola przeglądarki nie wykazuje żadnych błędów podczas działania skryptu.
-- [x] **Numer indeksu:** Numer 68358 znajduje się w kodzie, na stronie oraz w commitach.
+- [x] **Numer indeksu:** Numer indeksu znajduje się w kodzie, na stronie oraz w commitach.
 
 ## 📂 Struktura plików (zad4)
 
