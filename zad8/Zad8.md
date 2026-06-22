@@ -3,7 +3,6 @@
 > - **Zadanie 8:** Backend
 >  - **Przedmiot:** Projektowanie multimedialnych stron internetowych  
 > - **Uczelnia:** Akademia Finansów i Biznesu Vistula  
-> - **Numer indeksu:** 68358
 
 ## 🔗 Linki
 
@@ -18,9 +17,7 @@
 Celem zadania jest wprowadzenie do komunikacji frontendu z serwerem i zapisu danych poza
 przeglądarką.
 
-
-
-## ✅ Wymagania techniczne (Zadanie 7)
+## ✅ Wymagania techniczne (Zadanie 8)
 
 - [x] Wysłanie danych formularza metodą `POST`
 - [x] Zapis danych poza przeglądarką użytkownika
@@ -28,7 +25,7 @@ przeglądarką.
 - [x] Krótkie pokazanie w wideo, gdzie dane trafiają
 - [x] widoczne działanie funkcji na stronie
 
-## 📂 Struktura plików (Zadanie 7)
+## 📂 Struktura plików (Zadanie 8)
 
 - `data.json` – plik zawierający dane przeznaczone do dynamicznego generowania HTML. 
 - `index.html` – struktura CV z przyciskami interakcji.
@@ -37,13 +34,13 @@ przeglądarką.
 - `green.css` – motyw zielony.
 - `moje-zdjecie.jpg` – zdjęcie profilowe.
 
-## 📝 Changelog (Zadanie 7)
+## 📝 Changelog (Zadanie 8)
 
-### v6.0 – Konfriguracja endpointu backendu (FormSpree)
+### v7.0 – Konfriguracja endpointu backendu (FormSpree)
 - Podpięcie formularza kontaktowego pod FormSpree.
 
-### v6.1 - Implementacja wysylki formularza metoda POST przez fetch
+### v7.1 - Implementacja wysylki formularza metoda POST przez fetch
 - Zaimplementowano asynchroniczną wysyłkę formularza (metoda `POST`) przy użyciu `fetch` i `FormData`.
 
-### v6.2 - Dodanie potwierdzenia wysylki danych z serwera
+### v7.2 - Dodanie potwierdzenia wysylki danych z serwera
 - Wdrożenie potwierdzenia dostarczenia wysyłanych danych.
